@@ -4,7 +4,9 @@
 
 ### Preparation
 
-We will be using the `bde` environment for this lesson. If you do not have a gmail / google account, please sign up for one as we will need it for the hands-on lesson.
+- We will be using the `bde` environment for this lesson. If you do not have the environment, please refer to [the environment folder](https://github.com/su-ntu-ctp/5m-data-2.1-intro-big-data-eng/tree/main/environments)
+
+- If you do not have a gmail / google account, please sign up for one as we will need it for the hands-on lesson. For instructions to setup Google account please refer to the [installation guide under Lesson Preparation 2.2](https://github.com/su-ntu-ctp/5m-data-2.1-intro-big-data-eng/blob/main/installation.md#preparation-for-lesson-22)
 
 ### Lesson Overview
 
